@@ -1,7 +1,5 @@
 # Olá! Eu sou o Gabriel Prates 👋
 
-Graduando em Engenharia de Software · Unicesumar | Em busca de conhecimento em **Frontend** 🎨
-
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gabriel-Prates-14&theme=transparent&hide_border=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=Gabriel-Prates-14&theme=transparent)
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Prates-14&layout=compact&langs_count=7&theme=transparent&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Prates-14&layout=compact&langs_count=7&theme=transparent)
 
