@@ -13,6 +13,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-prates-batista)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pratezin_)
-[![Gmail](https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel227700@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gpratesbatista@gmail.com)
 
 [![Snake animation](https://github.com/Gabriel-Prates-14/Gabriel-Prates-14/raw/output/github-contribution-grid-snake.svg)](https://github.com/Gabriel-Prates-14/Gabriel-Prates-14/raw/output/github-contribution-grid-snake.svg)
